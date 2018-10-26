@@ -7,7 +7,7 @@ To start the application, use "npm start" in the repository by your terminal,
 
 Great man, good job!
 
->>>>>>>>>>>>>>>>
+<>>>>>>>>>>>>>>>>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
