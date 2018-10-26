@@ -5,6 +5,8 @@ Git clone or download ZIP aplication,
 
 To start the application, use "npm start" in the repository by your terminal,
 
+Next, use "http-server dist" and open server port 8080 by browser,
+
 Great man, good job!
 
 <>>>>>>>>>>>>>>>>
